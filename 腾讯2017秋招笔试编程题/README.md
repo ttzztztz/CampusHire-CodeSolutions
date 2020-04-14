@@ -6,6 +6,8 @@
 
 其实可以推公式，但是这道题数据很小，直接暴力dfs就可以过，最坏情况需要dfs `pow(26, 4)` 次
 
+类似的题目：[440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)
+
 ## T2 Very Easy
 
 这道题是 C 语言练习题？？？？？？
